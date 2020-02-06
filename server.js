@@ -8,11 +8,6 @@ const PORT = 8080;
 // App
 const app = express();
 
-function f() {
-  x = 23;
-  let x;
-}
-
 //Input display name here
 var name = "World"
 
